@@ -41,6 +41,7 @@ main {
     width: 5em;
     height: 2em;
     margin: 0 40%;
+    padding-bottom : 2em;
 }
 
 #header h1 {
